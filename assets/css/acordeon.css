@@ -4,14 +4,14 @@
     width: 100%;
     margin: 1rem 0;
     border-radius: 1rem;
-    border: 1px solid #FFF;
+    border: 1px solid #ffffff;
     transition: .25s;
 }
 
 .acordeon.open,
 .acordeon:hover {
-    background-color: #55569E;
-    border-color: #55569E;
+    background-color: #060e45;
+    border-color: #010223;
 }
 
 .acordeon .trigger {
@@ -22,7 +22,7 @@
     align-items: center;
     padding: 1rem 2rem;
     background-color: transparent;
-    color: #FFF;
+    color: #ffffff;
     border: transparent;
 }
 

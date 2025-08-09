@@ -44,3 +44,6 @@
     margin: .25rem;
 }
 
+.title{
+    text-decoration: underline;
+}
